@@ -506,6 +506,19 @@ h6,
 #features3-4 P {
   color: #ffffff;
 }
+#testimonials2-a .mbr-section-title {
+  color: #efefef;
+}
+#testimonials2-a .mbr-section-subtitle {
+  color: #cccccc;
+}
+#testimonials2-a .card-footer > small {
+  color: #c0a375;
+}
+#social-buttons4-c .mbr-section-title,
+#social-buttons4-c .btn-social {
+  color: #fff;
+}
 
 
 #menu-5 .hide-buttons .nav-btn {
