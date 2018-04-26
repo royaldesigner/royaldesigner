@@ -589,6 +589,12 @@ h6,
 #menu-5 .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
 }
+#header6-p .mbr-section-title {
+  color: #28262b;
+}
+#header6-p .mbr-section-text {
+  color: #565656;
+}
 
 
 #menu-6 .hide-buttons .nav-btn {
