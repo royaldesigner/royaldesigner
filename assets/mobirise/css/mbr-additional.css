@@ -514,6 +514,10 @@ h6,
 }
 #testimonials2-a .card-footer > small {
   color: #c0a375;
+  text-align: center;
+}
+#testimonials2-a .card-footer > div {
+  color: #ffffff;
 }
 #social-buttons4-c .mbr-section-title,
 #social-buttons4-c .btn-social {
@@ -719,4 +723,17 @@ h6,
 #menu-8 .link[aria-expanded="true"],
 #menu-8 .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
+}
+#msg-box5-l P {
+  text-align: left;
+}
+#msg-box5-l H3 {
+  text-align: left;
+}
+#msg-box5-k P {
+  text-align: left;
+}
+#msg-box5-k H3 {
+  text-align: left;
+  font-size: 46px;
 }
