@@ -610,7 +610,7 @@
               "color": "#28262b"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#2e2e2e"
             }
           },
           "_params": {
@@ -619,7 +619,7 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "57",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
             "parallax": true,
@@ -630,8 +630,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#c1c1c1",
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
