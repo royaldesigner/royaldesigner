@@ -465,7 +465,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/programming-wallpaper-590x332.jpg",
             "parallax": true,
