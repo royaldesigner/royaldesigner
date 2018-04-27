@@ -523,6 +523,12 @@ h6,
 #social-buttons4-c .btn-social {
   color: #fff;
 }
+#social-buttons4-c .mbr-section-title {
+  font-size: 30px;
+}
+#footer1-e P {
+  color: #a38f84;
+}
 
 
 #menu-5 .hide-buttons .nav-btn {
@@ -594,6 +600,9 @@ h6,
 }
 #header6-p .mbr-section-text {
   color: #2e2e2e;
+}
+#footer1-j P {
+  color: #a38f84;
 }
 
 
@@ -669,6 +678,9 @@ h6,
 }
 #msg-box5-l H3 {
   text-align: left;
+}
+#footer1-j P {
+  color: #a38f84;
 }
 #msg-box5-k P {
   text-align: left;

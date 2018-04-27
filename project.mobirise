@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-25_1731",
-    "currentPage": "Tutorials.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -458,6 +458,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -498,7 +501,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-e"
+          "_anchor": "footer1-e",
+          "_styles": {
+            "P": {
+              "color": "#a38f84"
+            }
+          }
         }
       ]
     },
@@ -659,6 +667,31 @@
           ],
           "_name": "header6",
           "_anchor": "header6-p"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 : Royal Web Design.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j",
+          "_styles": {
+            "P": {
+              "color": "#a38f84"
+            }
+          }
         }
       ]
     },
@@ -907,7 +940,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-j"
+          "_anchor": "footer1-j",
+          "_styles": {
+            "P": {
+              "color": "#a38f84"
+            }
+          }
         },
         {
           "_params": {
