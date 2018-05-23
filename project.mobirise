@@ -27,8 +27,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
     "uniqCompNum": 31,
-    "versionPublish": "4.7.2",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.7.6",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -50,7 +51,7 @@
               "color": "#ffffff",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -417,7 +418,7 @@
             {
               "authorName": "<span style=\"font-weight: normal;\">Jignesh Maru</span>",
               "authorBio": "FOUNDER &amp; CEO",
-              "text": "<p>“its really very amazing Page that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and using for this page thanks again for your nice functions”</p>",
+              "text": "<p>“At first view, looks like a nice innovative Design, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using to contact for more serious projects. Regards.”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/jignesh-maru-160x160.jpg",
@@ -526,7 +527,7 @@
               "color": "#ffffff",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -711,7 +712,7 @@
               "color": "#ffffff",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
