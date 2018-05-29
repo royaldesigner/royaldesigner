@@ -12,6 +12,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -518,6 +519,9 @@ h6,
 }
 #testimonials2-a .card-footer > div {
   color: #ffffff;
+}
+#testimonials2-a .card-footer > div SPAN {
+  font-family: 'Arimo', sans-serif;
 }
 #social-buttons4-c .mbr-section-title,
 #social-buttons4-c .btn-social {
