@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -610,6 +611,14 @@ h6,
 }
 
 
+
+#msg-box8-v .mbr-section-title,
+#msg-box8-v p {
+  color: #fff;
+}
+#msg-box8-v .mbr-section-title {
+  font-size: 36px;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -673,6 +682,18 @@ h6,
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w .mbr-section-title {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-w .mbr-section-title SPAN {
+  font-size: 15px;
 }
 #form1-7 .form-control-label {
   color: #232323;
