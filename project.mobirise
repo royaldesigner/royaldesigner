@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-25_1731",
-    "currentPage": "index.html",
+    "currentPage": "Templates.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1292,7 +1292,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sample5-750x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-852x480.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1412,7 +1412,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sample6-1318x597.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sample5-750x450.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1768,7 +1768,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers0.jpg"
+              "src": "@PROJECT_PATH@/assets/images/coworkers1.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
