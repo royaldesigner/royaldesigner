@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-25_1731",
-    "currentPage": "Success-Story.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 67,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -125,10 +125,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo1-146x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -136,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
           "_tags": [
             "Theme"
           ],
@@ -608,7 +607,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo1-146x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#",
               "title": "",
               "linkInNewWindow": false
@@ -619,12 +618,78 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
           "_anchor": "menu-5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/programmer-min-1204x688.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Tutorials Royal Web Design\n",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "15px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#d6efef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><a href=\"index.html\" class=\"text-primary\">Home</a> </span>/ <span style=\"font-weight: normal;\">Tutorials</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u"
         },
         {
           "_inherit": "header2",
@@ -873,7 +938,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo1-146x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#",
               "title": "",
               "linkInNewWindow": false
@@ -884,7 +949,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
           "_tags": [
             "Theme"
           ],
@@ -989,6 +1054,72 @@
         "order": 2
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20151117222236-cellphone-guy-designer-web-architechture-working-822x462.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Templates Royal Web Design\n",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "15px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#d6efef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><a href=\"index.html\" class=\"text-primary\">Home</a> </span>/ <span style=\"font-weight: normal;\">About Us</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1s"
+        },
         {
           "_params": {
             "showTitle": true,
@@ -1540,7 +1671,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo1-146x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#",
               "title": "",
               "linkInNewWindow": false
@@ -1551,7 +1682,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
           "_tags": [
             "Theme"
           ],
@@ -1604,7 +1735,7 @@
             "paddingBottom": "1",
             "bgColor": "#d6efef"
           },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"index.html\" class=\"text-primary\">Home</a> </span>/ <span style=\"font-weight: normal;\">Contact\n</span>",
+          "title": "<span style=\"font-weight: normal;\"><a href=\"index.html\" class=\"text-primary\">Home</a> </span>/ <span style=\"font-weight: normal;\">Success</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -1637,7 +1768,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers1.jpg"
+              "src": "@PROJECT_PATH@/assets/images/coworkers0.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1653,7 +1784,7 @@
           },
           "title": "Our Success Story",
           "text": "<p>Royal Web Design also designed and build one Website.<br>This is the first Success story and Experience of our team.</p><br><p>Read more to more detail. &nbsp;</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Success-Story.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1796,7 +1927,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo1-146x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#",
               "title": "",
               "linkInNewWindow": false
@@ -1807,7 +1938,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
           "_tags": [
             "Theme"
           ],
@@ -1882,48 +2013,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#86cbef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Ready to get started?\n<div>Get in touch, or contact sales\n</div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>Get In Touch</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#044a6e"
-            },
-            "H3": {
-              "color": "#07344b",
-              "font-size": "32px"
-            },
-            "DIV": {
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box1-1i"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1993,6 +2082,48 @@
           ],
           "_name": "content5",
           "_anchor": "content5-12"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#86cbef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ready to get started?\n<div>Get in touch, or contact sales\n</div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>Get In Touch</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#044a6e"
+            },
+            "H3": {
+              "color": "#07344b",
+              "font-size": "32px"
+            },
+            "DIV": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "msg-box1-1i"
         }
       ]
     },
@@ -2080,7 +2211,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo1-146x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#",
               "title": "",
               "linkInNewWindow": false
@@ -2091,7 +2222,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROYAL WEB DESIGN</a>",
           "_tags": [
             "Theme"
           ],
@@ -2181,7 +2312,7 @@
             "paddingBottom": "1",
             "bgColor": "#d6efef"
           },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"index.html\" class=\"text-primary\">Home</a> </span>/ <span style=\"font-weight: normal;\">About Us</span>",
+          "title": "<span style=\"font-weight: normal;\"><a href=\"index.html\" class=\"text-primary\">Home</a> </span>/ <span style=\"font-weight: normal;\">Success story</span>",
           "meta": "",
           "_tags": [
             "Theme"
