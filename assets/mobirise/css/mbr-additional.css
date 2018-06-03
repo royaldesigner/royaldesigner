@@ -1133,3 +1133,95 @@ h6,
 #msg-box1-1m DIV {
   font-size: 32px;
 }
+
+
+
+#msg-box8-1v .mbr-section-title,
+#msg-box8-1v p {
+  color: #fff;
+}
+#msg-box8-1v .mbr-section-title {
+  font-size: 36px;
+}
+#menu-1w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1w .navbar-caption {
+  color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+}
+#menu-1w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1w .close-icon::before,
+#menu-1w .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1w .link,
+#menu-1w .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#menu-1w .link {
+  font-size: 1.1rem;
+}
+#menu-1w .dropdown-item,
+#menu-1w .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#menu-1w .link:hover,
+#menu-1w .dropdown-item:hover,
+#menu-1w .link:focus,
+#menu-1w .dropdown-item:focus {
+  color: #3d8eb9;
+}
+#menu-1w .link[aria-expanded="true"],
+#menu-1w .dropdown-menu {
+  background: #000000;
+}
+#menu-1w .nav-dropdown-sm .link:focus,
+#menu-1w .nav-dropdown-sm .link:hover,
+#menu-1w .nav-dropdown-sm .dropdown-item:focus,
+#menu-1w .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1w .navbar,
+#menu-1w .nav-dropdown-sm,
+#menu-1w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1w .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1w .bg-color.transparent.opened .link:hover,
+#menu-1w .bg-color.transparent.opened .link:focus {
+  color: #3d8eb9;
+}
+#menu-1w .link[aria-expanded="true"],
+#menu-1w .dropdown-item[aria-expanded="true"] {
+  color: #3d8eb9!important;
+}
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1x .mbr-section-title {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-1x .mbr-section-title SPAN {
+  font-size: 15px;
+}
+#form1-1y .form-control-label {
+  color: #232323;
+}
+#form1-1y SMALL {
+  text-align: center;
+}
