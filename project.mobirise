@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-25_1731",
-    "currentPage": "Business_with_us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
     "uniqCompNum": 71,
-    "versionPublish": "4.7.6",
+    "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "siteFonts": []
   },
@@ -425,7 +425,7 @@
           "testimonial": [
             {
               "authorName": "<span style=\"font-weight: normal;\">Jignesh Maru</span>",
-              "authorBio": "FOUNDER",
+              "authorBio": "FOUNDER &amp; CEO",
               "text": "<p>“At first view, looks like a nice innovative Design, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using to contact for more serious projects. Regards.”</p>",
               "media": {
                 "image": {
